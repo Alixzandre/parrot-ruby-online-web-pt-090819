@@ -2,5 +2,6 @@
 # returns the phrase
 def parrot(core="Squawk!")
   puts core
+  return core
 end
 
